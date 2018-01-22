@@ -113,5 +113,5 @@ module.exports = {
     saveUser,
     loginUser,
     updateUser,
-    uploadImage,
+    uploadImage
 };
